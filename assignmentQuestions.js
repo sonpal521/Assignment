@@ -3,7 +3,7 @@
  * 01
  * Requirements: "1. Given 2 numbers as input. You need to find if they have opposite signs or not.
    Input -> +123, -12
-   Output -> true
+
  * 
 
  */
